@@ -14,12 +14,16 @@
   padding: 0;
 }
 
+<<<<<<< HEAD
 /* Base styles for all devices */
+=======
+>>>>>>> origin/main
 body {
   height: 100vh;
   font-family: "DM Sans", sans-serif;
   font-size: 1rem;
   line-height: 1.6;
+<<<<<<< HEAD
   background: linear-gradient(to bottom right, #b3e5fc, #e1f5fe);
   color: #000000;
   margin: 0;
@@ -99,6 +103,13 @@ p {
 
 
 
+=======
+  background-color: #fff;
+  color: #333;
+  /* background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/debut_light.png"); */
+}
+
+>>>>>>> origin/main
 a {
   color: var(--primary-color);
   text-decoration: none;

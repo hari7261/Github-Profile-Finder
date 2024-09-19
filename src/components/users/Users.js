@@ -11,7 +11,11 @@ const Users = () => {
     return <Spinner />;
   } else {
     return (
+<<<<<<< HEAD
       <div className="users-grid">
+=======
+      <div className="user-style">
+>>>>>>> origin/main
         {users.map(user => (
           <UserItem key={user.id} user={user} />
         ))}
